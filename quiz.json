@@ -1,0 +1,163 @@
+[
+  {
+    "title": "1+1=?",
+    "answer-1": 1,
+    "answer-2": 3,
+    "answer-3": 0,
+    "answer-4": 2,
+    "correct-answer": 2
+  },
+  {
+    "title": "2+1=?",
+    "answer-1": 1,
+    "answer-2": 4,
+    "answer-3": 3,
+    "answer-4": 2,
+    "correct-answer": 3
+  },
+  {
+    "title": "3+1=?",
+    "answer-1": 5,
+    "answer-2": 3,
+    "answer-3": 4,
+    "answer-4": 2,
+    "correct-answer": 4
+  },
+  {
+    "title": "5+6=?",
+    "answer-1": 10,
+    "answer-2": 12,
+    "answer-3": 11,
+    "answer-4": 15,
+    "correct-answer": 11
+  },
+  {
+    "title": "12+17=?",
+    "answer-1": 29,
+    "answer-2": 32,
+    "answer-3": 23,
+    "answer-4": 20,
+    "correct-answer": 29
+  },
+  {
+    "title": "36+7=?",
+    "answer-1": 50,
+    "answer-2": 34,
+    "answer-3": 43,
+    "answer-4": 45,
+    "correct-answer": 43
+  },
+  {
+    "title": "66+5=?",
+    "answer-1": 81,
+    "answer-2": 75,
+    "answer-3": 70,
+    "answer-4": 71,
+    "correct-answer": 71
+  },
+  {
+    "title": "14+8=?",
+    "answer-1": 19,
+    "answer-2": 23,
+    "answer-3": 25,
+    "answer-4": 22,
+    "correct-answer": 22
+  },
+  {
+    "title": "23+8=?",
+    "answer-1": 31,
+    "answer-2": 30,
+    "answer-3": 29,
+    "answer-4": 32,
+    "correct-answer": 31
+  },
+  {
+    "title": "73+6=?",
+    "answer-1": 78,
+    "answer-2": 79,
+    "answer-3": 80,
+    "answer-4": 74,
+    "correct-answer": 79
+  },
+
+  {
+    "title": "20+20=?",
+    "answer-1": "04",
+    "answer-2": 40,
+    "answer-3": 20,
+    "answer-4": 41,
+    "correct-answer": 40
+  },
+  {
+    "title": "23+42=?",
+    "answer-1": 49,
+    "answer-2": 47,
+    "answer-3": 37,
+    "answer-4": 48,
+    "correct-answer": 47
+  },
+  {
+    "title": "19+14=?",
+    "answer-1": 35,
+    "answer-2": 33,
+    "answer-3": 34,
+    "answer-4": 32,
+    "correct-answer": 33
+  },
+  {
+    "title": "51+16=?",
+    "answer-1": 66,
+    "answer-2": 69,
+    "answer-3": 67,
+    "answer-4": 68,
+    "correct-answer": 67
+  },
+  {
+    "title": "13+17=?",
+    "answer-1": 31,
+    "answer-2": 32,
+    "answer-3": 13,
+    "answer-4": 30,
+    "correct-answer": 30
+  },
+  {
+    "title": "36+12=?",
+    "answer-1": 50,
+    "answer-2": 49,
+    "answer-3": 48,
+    "answer-4": 84,
+    "correct-answer": 48
+  },
+  {
+    "title": "76+24=?",
+    "answer-1": 97,
+    "answer-2": 98,
+    "answer-3": 99,
+    "answer-4": 101,
+    "correct-answer": 100
+  },
+  {
+    "title": "14+23=?",
+    "answer-1": 37,
+    "answer-2": 26,
+    "answer-3": 27,
+    "answer-4": 72,
+    "correct-answer": 27
+  },
+  {
+    "title": "49+62=?",
+    "answer-1": 111,
+    "answer-2": 110,
+    "answer-3": 109,
+    "answer-4": 112,
+    "correct-answer": 111
+  },
+  {
+    "title": "73+24=?",
+    "answer-1": 97,
+    "answer-2": 79,
+    "answer-3": 100,
+    "answer-4": 95,
+    "correct-answer": 97
+  }
+]
